@@ -8,10 +8,10 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 1.1 Within this document, the following definitions shall be used:
 
-* "The Club" shall refer to the organisation to which this constitution applies.
-* "The Union" shall refer to the University of Queensland Union.
-* "Executive Team" shall refer to the team of members responsible for the administration and running of the club.
-* "T3 Officers" shall refer to those in the 'top 3' positions of the Executive Team (president, treasurer and secretary).
+    - 1.1.1 "The Club" shall refer to the organisation to which this constitution applies.
+    - 1.1.2 "The Union" shall refer to the University of Queensland Union.
+    - 1.1.3 "Executive Team" shall refer to the team of members responsible for the administration and running of the club.
+    - 1.1.4 "T3 Officers" shall refer to those in the 'top 3' positions of the Executive Team (president, treasurer and secretary).
 
 ## 2 NAME
 
@@ -23,9 +23,9 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 3.1 The aims of The Club are:
 
-* to bring members of the UQ community interested in mechatronics and robotics together to form a dedicated club
-* to provide a relaxed club and environment where students who have no experience will be provided resources and the expertise of more experience, giving them the ability to build their own mechatronic systems
-* to provide a centralised group for enthusiasts who may wish to compete on behalf of UQ at higher level robotics competitions
+    - 3.1.1 to bring members of the UQ community interested in mechatronics and robotics together to form a dedicated club
+    - 3.1.2 to provide a relaxed club and environment where students who have no experience will be provided resources and the expertise of more experience, giving them the ability to build their own mechatronic systems
+    - 3.1.3 to provide a centralised group for enthusiasts who may wish to compete on behalf of UQ at higher level robotics competitions
 
 3.2 Non-Profit Clause: The assets and income of The Club shall be applied solely in furtherance of its abovementioned objects and no portion shall be distributed directly or indirectly to the members of The Club except as bona fide compensation for services rendered or expenses incurred on behalf of The Club.
 
@@ -33,9 +33,9 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 4.1 Membership is open to:
 
-* any student of the University of Queensland
-* any University of Queensland academic staff member
-* any other members of the University or wider community interested in The Club's activities
+    - 4.1.1 any student of the University of Queensland
+    - 4.1.2 any University of Queensland academic staff member
+    - 4.1.3 any other members of the University or wider community interested in The Club's activities
 
 4.2 The Club shall have not less than thirty (30) financial members to remain a subsidised club.
 
@@ -57,10 +57,10 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 6.3 If a member -
 
-* fails to comply with any of the provisions of these rules
-* has membership fees in arrears
-* conducts himself or herself in a manner considered to be injurious or prejudicial to the character or interests of The Club,
-
+    - 6.3.1 fails to comply with any of the provisions of these rules
+    - 6.3.2 has membership fees in arrears
+    - 6.3.3 conducts himself or herself in a manner considered to be injurious or prejudicial to the character or interests of The Club,
+    
     the Executive Team shall consider whether the member's membership shall be terminated.
 
 6.4 The member concerned shall be given a full and fair opportunity of presenting the member's case and if the Executive Team resolves to terminate the membership it shall instruct the secretary to advise the member in writing accordingly.
@@ -81,11 +81,11 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 8.3 The election of T3 Officers and other members of the Executive Team shall take place in the following manner –
 
-* any two (2) members of The Club shall be at liberty to nominate any member to serve as an officer or other member of the Executive Team.
-* the nomination, which shall be in writing and signed by the member, the member's proposer (if different to the member) and seconder, shall be lodged with the secretary at least one (1) hour before the annual general meeting at which the election is to take place.
-* at the commencement of such meeting, nominations may be taken from those present provided that they are seconded by someone else in attendance.
-* any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
-* in the case of a secret ballot, the assembly will select a returning officer, who cannot be nominated for membership of the Executive Team and who shall be responsible for ensuring the orderly running of elections.
+    - 8.3.1 any two (2) members of The Club shall be at liberty to nominate any member to serve as an officer or other member of the Executive Team.
+    - 8.3.2 the nomination, which shall be in writing and signed by the member, the member's proposer (if different to the member) and seconder, shall be lodged with the secretary at least one (1) hour before the annual general meeting at which the election is to take place.
+    - 8.3.3 at the commencement of such meeting, nominations may be taken from those present provided that they are seconded by someone else in attendance.
+    - 8.3.4 any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
+    - 8.3.5 in the case of a secret ballot, the assembly will select a returning officer, who cannot be nominated for membership of the Executive Team and who shall be responsible for ensuring the orderly running of elections.
 
 8.4 There shall at no time be less than three (3) members on the Executive Team (the T3), and no more than $\max{\left(10, \left\lfloor \sqrt{2n} \right\rfloor\right)}$ members on the Executive Team where $n$ represents the number of financial members of The Club as of the beginning of the most recent Annual General Meeting.
 
@@ -113,12 +113,12 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 11.1 Except as otherwise provided by these rules and subject to resolutions of the members of The Club carried at any general meeting the Executive Team -
 
-* shall have the general control and management of the administration of the affairs and funds of The Club
-* shall have authority to interpret the meaning of these rules and any matter relating to The Club on which these rules are silent.
+    - 11.1.1 shall have the general control and management of the administration of the affairs and funds of The Club
+    - 11.1.2 shall have authority to interpret the meaning of these rules and any matter relating to The Club on which these rules are silent.
 
 11.2 The Executive Team may exercise all the power of The Club
 
-* to raise or secure the payment of money in such manner as the members of The Club may think fit and secure the payment or performance of any debt, liability or other engagement incurred or to be entered into by The Club in any way.
+    - 11.2.1 to raise or secure the payment of money in such manner as the members of The Club may think fit and secure the payment or performance of any debt, liability or other engagement incurred or to be entered into by The Club in any way.
 
 11.3 The Executive Team will take full responsibility for all publications produced by The Club or by any of its members.
 
@@ -180,8 +180,8 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 16.1 Each subsequent annual general meeting must be held -
 
-* at least once each year
-* within three (3) months after the end of The Club's previous financial year.
+    - 16.1.1 at least once each year
+    - 16.1.2 within three (3) months after the end of The Club's previous financial year.
 
 16.2 The annual general meeting will be held in the month of October each year.
 
@@ -189,12 +189,12 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 17.1 The following business must be transacted at every annual general meeting –
 
-* the receiving of the statement of income and expenditure, assets and liabilities for the last financial year prepared by the treasurer
-* the receiving of reports from the president and the secretary
-* the receiving of the auditor's report on the financial affairs of The Club for the last financial year
-* the presenting of the audited statement to the meeting for adoption
-* the election of members of the Executive Team
-* the appointment of an auditor who shall be the nominee of The Union for Club/Societies or an independent auditor who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies
+    - 17.1.1 the receiving of the statement of income and expenditure, assets and liabilities for the last financial year prepared by the treasurer
+    - 17.1.2 the receiving of reports from the president and the secretary
+    - 17.1.3 the receiving of the auditor's report on the financial affairs of The Club for the last financial year
+    - 17.1.4 the presenting of the audited statement to the meeting for adoption
+    - 17.1.5 the election of members of the Executive Team
+    - 17.1.6 the appointment of an auditor who shall be the nominee of The Union for Club/Societies or an independent auditor who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies
 
 17.2 The minutes of the annual general meeting shall be submitted to the The Union's Clubs and Societies Administration Officer within seven (7) days of the annual general meeting
 
@@ -206,9 +206,9 @@ negative.
 18.1 The secretary shall convene a special general meeting by sending out notice of
 the meeting within fourteen (14) days of:
 
-* being directed to do so by the Executive Team
-* being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the Executive Team or from ordinary members not less than double the number of members presently on the Executive Team plus one (1)
-* being given a notice in writing of an intention to appeal against the decision of the Executive Team to reject an application for membership or to terminate the membership of any person
+    - 18.1.1 being directed to do so by the Executive Team
+    - 18.1.2 being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the Executive Team or from ordinary members not less than double the number of members presently on the Executive Team plus one (1)
+    - 18.1.3 being given a notice in writing of an intention to appeal against the decision of the Executive Team to reject an application for membership or to terminate the membership of any person
 
 18.2 A requisition mentioned in subsection 17.1 shall clearly state the reasons why such special general meeting is being convened and the nature of the business to be transacted thereat.
 
@@ -228,10 +228,10 @@ the meeting within fourteen (14) days of:
 
 21.1 Unless otherwise provided by these rules, at every general meeting –
 
-* the president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, another T3 Officer shall be chosen as chairperson or if none of the T3 Officers are present or willing to act then the members present shall elect one (1) of their number to be chairperson of the meeting
-* the chairperson shall maintain order and conduct the meeting in a proper and orderly manner
-* every question, matter or resolution shall be decided by a majority of votes of the members present
-* every resolution must be minuted.
+    - 21.1.1 the president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, another T3 Officer shall be chosen as chairperson or if none of the T3 Officers are present or willing to act then the members present shall elect one (1) of their number to be chairperson of the meeting
+    - 21.1.2 the chairperson shall maintain order and conduct the meeting in a proper and orderly manner
+    - 21.1.3 every question, matter or resolution shall be decided by a majority of votes of the members present
+    - 21.1.4 every resolution must be minuted.
 
 ## 22 ALTERATION OF RULES
 
@@ -241,8 +241,8 @@ the meeting within fourteen (14) days of:
 
 22.3 A special resolution is passed at a meeting if –
 
-* of the entitled members of The Club who vote in person or (if proxies are allowed) by proxy at a meeting, not less than three quarters (3/4) vote in favour of the resolution; and
-* any additional requirements of the constitution relating to the passing of a special resolution have been met.
+    - 22.3.1 of the entitled members of The Club who vote in person or (if proxies are allowed) by proxy at a meeting, not less than three quarters (3/4) vote in favour of the resolution; and
+    - 22.3.2 any additional requirements of the constitution relating to the passing of a special resolution have been met.
 
 22.4 A resolution is not to be considered to have been passed as a special resolution under sub-section (2) unless not less than twenty-one (21) days notice has been given in accordance with the rules to all of the entitled members of The Club specifying the intention to propose the resolution as a special resolution.
 
@@ -266,8 +266,8 @@ the meeting within fourteen (14) days of:
 
 23.8 As soon as practicable after the end of each financial year the treasurer shall cause to be prepared a statement containing the particulars of -
 
-* the income and expenditure for the financial year just ended
-* the assets and liabilities at the close of that year.
+    - 23.8.1 the income and expenditure for the financial year just ended
+    - 23.8.2 the assets and liabilities at the close of that year.
 
 23.9 The accounts of The Club must be audited one (1) month prior to the annual general meeting.
 
