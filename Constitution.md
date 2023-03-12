@@ -8,10 +8,10 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 1.1 Within this document, the following definitions shall be used:
 
-    - 1.1.1 "The Club" shall refer to the organisation to which this constitution applies.
-    - 1.1.2 "The Union" shall refer to the University of Queensland Union.
-    - 1.1.3 "Executive Team" shall refer to the team of members responsible for the administration and running of the club.
-    - 1.1.4 "T3 Officers" shall refer to those in the 'top 3' positions of the Executive Team (president, treasurer and secretary).
+- 1.1.1 "The Club" shall refer to the organisation to which this constitution applies.
+- 1.1.2 "The Union" shall refer to the University of Queensland Union.
+- 1.1.3 "Executive Team" shall refer to the team of members responsible for the administration and running of the club.
+- 1.1.4 "T3 Officers" shall refer to those in the 'top 3' positions of the Executive Team (president, treasurer and secretary).
 
 ## 2 NAME
 
@@ -23,9 +23,9 @@ The constitution is enacted on this 9th day of March in the year 2023.
 
 3.1 The aims of The Club are:
 
-    - 3.1.1 to bring members of the UQ community interested in mechatronics and robotics together to form a dedicated club
-    - 3.1.2 to provide a relaxed club and environment where students who have no experience will be provided resources and the expertise of more experience, giving them the ability to build their own mechatronic systems
-    - 3.1.3 to provide a centralised group for enthusiasts who may wish to compete on behalf of UQ at higher level robotics competitions
+* 3.1.1 to bring members of the UQ community interested in mechatronics and robotics together to form a dedicated club
+* 3.1.2 to provide a relaxed club and environment where students who have no experience will be provided resources and the expertise of more experience, giving them the ability to build their own mechatronic systems
+* 3.1.3 to provide a centralised group for enthusiasts who may wish to compete on behalf of UQ at higher level robotics competitions
 
 3.2 Non-Profit Clause: The assets and income of The Club shall be applied solely in furtherance of its abovementioned objects and no portion shall be distributed directly or indirectly to the members of The Club except as bona fide compensation for services rendered or expenses incurred on behalf of The Club.
 
