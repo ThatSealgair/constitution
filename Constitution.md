@@ -250,6 +250,14 @@ the meeting within fourteen (14) days of:
 
 22.6 In this section "entitled member" means a member of The Club who is entitled under the rules of the association to vote.
 
+22.7 To make changes to Section 25 "Acquisition Clause" and to Section 22.7
+- 25.1.1 A special general meeting must be called.
+    - 25.1.1.1 The special general meeting called to enact Section 25 must be a meeting set a week apart from any special general meeting called to make changes to Section 25.
+- 25.1.2 The quorum of this meeting must be double that required by 19.1.
+- 25.1.3 A 70% vote in favour of all members and executive must be achieved.
+- 25.1.4 The President, Secretary, and Treasurer must vote unanimously in favour of the decision.
+
+
 ## 23 FUNDS AND ACCOUNTS
 
 23.1 The funds of The Club must be kept in the name of The Club in the University branch of the Commonwealth Bank. The Club shall operate one (1) account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies committee.
@@ -281,9 +289,17 @@ the meeting within fourteen (14) days of:
 
 ## 25 ACQUISITION CLAUSE
 
-25.1 In the event that The Club is ever acquired by another Club/Society or enters into a subsidiary affiliation agreement, this shall occur for an up-front cost no less than one hundred thousand (100,000) Australian dollars to be channelled to be used in-line with the purpose of The Club.
+25.1 For The Club to be acquired by another Club/Soceity or for the club to enter a subsidiary affiliation agreement,
+- 25.1.1 A special general meeting must be called.
+- 25.1.2 The quorum of this meeting must be double that required by 19.1.
+- 25.1.3 A 70% vote in favour of all members and executive must be achieved.
+- 25.1.4 The President, Secretary, and Treasurer must vote unanimously in favour of the decision.
 
-25.2 From the date that such acquisition / agreement is finalised, the name of this Club/Society shall be changed to the "UQ Robotics and Technology Society", otherwise abbreviated to "UQ RATS" for a period no less than three (3) years.
+25.2 In the event that The Club is ever acquired by another Club/Society or enters into a subsidiary affiliation agreement, this shall occur for an up-front cost no less than one hundred thousand (100,000) Australian dollars to be channelled to be used in-line with the purpose of The Club.
+
+25.3 From the date that such acquisition / agreement is finalised
+- 25.3.1 the name of this Club/Society shall be changed to the "UQ Robotics and Technology Society", otherwise abbreviated to "UQ RATS" for a period no less than three (3) years.
+- 25.3.2 the mascot icon 'Turbo' is to be replaced by an image that resembles a rat.
 
 ## 26 DOCUMENTS
 
